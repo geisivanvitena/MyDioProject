@@ -1,4 +1,4 @@
-# 📘 Documentação do desafio de projeto DIO - Wex
+# 📘 Documentação do desafio de projeto Bootcamp DIO - Wex
 
 ## Projeto - MyDioProject
 
@@ -23,6 +23,3 @@ O foco principal é garantir a **qualidade do software** por meio da definição
 - Bugs
 - Referência ao mapa mental elaborado para a user story selecionada
 
----
-
-📄 [Clique aqui para baixar o Desafio de Projeto (PDF)](./DesafioDeProjeto.pdf)
