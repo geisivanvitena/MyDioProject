@@ -1,4 +1,6 @@
-# 📘 Documentação de Testes - Projeto My Dio Project
+# 📘 Documentação do desafio de projeto DIO - Wex
+
+## Projeto - MyDioProject
 
 ## 🎯 Objetivo
 
